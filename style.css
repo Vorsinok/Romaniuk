@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(0, 133, 133);
+    font-family: 'Merriweather', serif;
+}
+.container img{
+    width: 30px;
+    height: auto;
+}
+.content{
+    padding-top: 150px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.content div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.content h1{
+    
+    text-align: center;
+}
+.content img{
+    width: 1000px;
+    height: 500px;
+}
